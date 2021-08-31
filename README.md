@@ -1,6 +1,6 @@
 # MUISTUNE
 
-A full MERN stack music web application that enables users to register and login to an account, listen a list of music. Admin has the features of adding and deleting the song fro muistune app.
+A full MERN stack music web application that enables users to register and login to an account, listen a list of music. Admin has the features of adding and deleting the song in muistune app.
 For frontend, we have used HTML5, CSS3, Bootstrap4 and ReactJS and backend is implemented using Node JS, Express JS and MongoDB.
 
 ## Features
